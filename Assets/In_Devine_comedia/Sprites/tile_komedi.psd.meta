@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: 2e3457e43a453b5429c001d41beef5be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3239375594756744871
+    second: tile_komedi_0
+  - first:
+      213: 1991546049058165503
+    second: tile_komedi_1
+  - first:
+      213: -2360433700306062770
+    second: tile_komedi_2
+  - first:
+      213: -7795350837166125255
+    second: tile_komedi_3
+  - first:
+      213: 8508569126711692475
+    second: tile_komedi_4
+  - first:
+      213: -1227029034081314530
+    second: tile_komedi_5
+  - first:
+      213: -7766610528051817189
+    second: tile_komedi_6
+  - first:
+      213: -3811788463257113376
+    second: tile_komedi_7
+  - first:
+      213: -408721486440213639
+    second: tile_komedi_8
+  - first:
+      213: -2322856373566969952
+    second: tile_komedi_9
+  - first:
+      213: -110339583566747902
+    second: tile_komedi_10
+  - first:
+      213: -2304129080789988972
+    second: tile_komedi_11
+  - first:
+      213: -7425253078909964928
+    second: tile_komedi_12
+  - first:
+      213: -3548168992977081060
+    second: tile_komedi_13
+  - first:
+      213: -7526254070466936523
+    second: tile_komedi_14
+  - first:
+      213: -6480348695098944838
+    second: tile_komedi_15
+  - first:
+      213: 1400166383006906474
+    second: tile_komedi_16
+  - first:
+      213: 5007406991493291115
+    second: tile_komedi_17
+  - first:
+      213: 2214607801625975187
+    second: tile_komedi_18
+  - first:
+      213: -8742055704199981450
+    second: tile_komedi_19
+  - first:
+      213: -1249672888158086213
+    second: tile_komedi_20
+  - first:
+      213: 1266568898263940155
+    second: tile_komedi_21
+  - first:
+      213: 3972592718064437961
+    second: tile_komedi_22
+  - first:
+      213: 3186204673678781408
+    second: tile_komedi_23
+  - first:
+      213: -1496249726016957492
+    second: tile_komedi_24
+  - first:
+      213: 3953474459155967288
+    second: tile_komedi_25
+  - first:
+      213: -5510287831500183348
+    second: tile_komedi_26
+  - first:
+      213: -9189501706177094002
+    second: tile_komedi_27
+  - first:
+      213: 1191035736298927102
+    second: tile_komedi_28
+  - first:
+      213: 8371535253650087322
+    second: tile_komedi_29
+  - first:
+      213: -7308608842753231529
+    second: tile_komedi_30
+  - first:
+      213: -3446482813550842128
+    second: tile_komedi_31
+  - first:
+      213: 4425893868935333188
+    second: tile_komedi_32
+  - first:
+      213: 5966736372727646233
+    second: tile_komedi_33
+  - first:
+      213: -7805836973393804881
+    second: tile_komedi_34
+  - first:
+      213: 1488466876125568059
+    second: tile_komedi_35
+  - first:
+      213: -8762050201835166436
+    second: tile_komedi_36
+  - first:
+      213: -8144986688658517591
+    second: tile_komedi_37
+  - first:
+      213: -5493372617113719667
+    second: tile_komedi_38
+  - first:
+      213: 5080814522041285031
+    second: tile_komedi_39
+  - first:
+      213: -6184040588971309953
+    second: tile_komedi_40
+  - first:
+      213: 3166784217777738409
+    second: tile_komedi_41
+  - first:
+      213: -244426383501871603
+    second: tile_komedi_42
+  - first:
+      213: 6634552950393118920
+    second: tile_komedi_43
+  - first:
+      213: 7915293522592801721
+    second: tile_komedi_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_komedi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959547c3f0d6b03d0800000000000000
+      internalID: -3239375594756744871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d1f7749463ab10800000000000000
+      internalID: 1991546049058165503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4275614e0e0e3fd0800000000000000
+      internalID: -2360433700306062770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f4b2317b951d390800000000000000
+      internalID: -7795350837166125255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc81885a82841670800000000000000
+      internalID: 8508569126711692475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191e763897b8fee0800000000000000
+      internalID: -1227029034081314530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1599aebfd4773490800000000000000
+      internalID: -7766610528051817189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca0a0a69ec91bc0800000000000000
+      internalID: -3811788463257113376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97359ac39fde35af0800000000000000
+      internalID: -408721486440213639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e94d6f6e83cfd0800000000000000
+      internalID: -2322856373566969952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e6dcbbbef77ef0800000000000000
+      internalID: -110339583566747902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998dde0fc61600e0800000000000000
+      internalID: -2304129080789988972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d22385aa334f890800000000000000
+      internalID: -7425253078909964928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dab82991f52cec0800000000000000
+      internalID: -3548168992977081060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310b787ccf5d8790800000000000000
+      internalID: -7526254070466936523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab216f7323d2116a0800000000000000
+      internalID: -6480348695098944838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68f19d28e36e6310800000000000000
+      internalID: 1400166383006906474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd3cdd022ed7540800000000000000
+      internalID: 5007406991493291115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 414
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39999b4ef0edbbe10800000000000000
+      internalID: 2214607801625975187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 415
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769b7887aafda680800000000000000
+      internalID: -8742055704199981450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 415
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb96e7112548aee0800000000000000
+      internalID: -1249672888158086213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 415
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7490d3b1c39110800000000000000
+      internalID: 1266568898263940155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac885870c712730800000000000000
+      internalID: 3972592718064437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 387
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb205cf44ca73c20800000000000000
+      internalID: 3186204673678781408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 376
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3db793dc04c3be0800000000000000
+      internalID: -1496249726016957492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d229ef2109dd630800000000000000
+      internalID: 3953474459155967288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8264979668783b0800000000000000
+      internalID: -5510287831500183348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed774e2e4587080800000000000000
+      internalID: -9189501706177094002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b4e811b8678010800000000000000
+      internalID: 1191035736298927102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553a6deafa929a90800000000000000
+      internalID: -7308608842753231529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe20dd2422ab20d0800000000000000
+      internalID: -3446482813550842128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 320
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445487f360feb6d30800000000000000
+      internalID: 4425893868935333188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d197a75faad2470800000000000000
+      internalID: 8371535253650087322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91885dc2e1b1ec250800000000000000
+      internalID: 5966736372727646233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 387
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1804a31a81ca390800000000000000
+      internalID: -7805836973393804881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_komedi_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5663dcb818a410800000000000000
+      internalID: 1488466876125568059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
